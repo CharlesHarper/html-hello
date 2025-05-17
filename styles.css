@@ -1,0 +1,47 @@
+header {
+  background: white;
+  Padding: 10px;
+  
+}
+div.post h2, div.post p{
+  padding: 10px;
+  margin: 0;
+}
+
+header h1 {
+  margin: 0;
+  
+}
+div.post{
+  Background: white;
+  margin-top: 10px;
+}
+body {
+  margin: 0;
+  background: gray;
+  
+}
+div.container{
+  width: 600px;
+  margin:auto;
+
+
+
+}
+
+div.post .post-header div:first-child{
+  display: inline-block;
+ 
+  width: 80%;
+}
+
+div.post .post-header div:last-child{
+  display: inline-block;
+  text-align: right;
+  padding: 10px;
+  width: 20%;
+  color: gray;
+}
+div{
+  box-sizing: border-box;
+}
